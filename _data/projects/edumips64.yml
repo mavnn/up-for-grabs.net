@@ -1,0 +1,15 @@
+---
+name: EduMIPS64
+desc: A cross-platform educational MIPS64 CPU simulator.
+site: http://www.edumips.org
+tags:
+- java
+- simulator
+- cpu
+upforgrabs:
+  name: up-for-grabs
+  link: https://github.com/EduMIPS64/edumips64/labels/up-for-grabs
+stats:
+  issue-count: 7
+  last-updated: '2023-09-09T16:11:58Z'
+  fork-count: 55

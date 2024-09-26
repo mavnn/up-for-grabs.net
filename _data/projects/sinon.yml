@@ -1,0 +1,16 @@
+---
+name: SinonJS
+desc: The worlds most popular stubbing library for javascript
+site: https://sinonjs.org
+tags:
+- javascript
+- stubs
+- unit-testing
+- testing
+upforgrabs:
+  name: Help wanted
+  link: https://github.com/sinonjs/sinon/labels/Help%20wanted
+stats:
+  issue-count: 17
+  last-updated: '2023-09-12T17:39:43Z'
+  fork-count: 833

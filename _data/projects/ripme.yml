@@ -1,0 +1,23 @@
+---
+name: RipMe
+desc: Downloads albums in bulk
+site: https://github.com/ripmeapp/ripme
+tags:
+- ripme
+- java
+- album
+- downloader
+- archiver
+- reddit
+- imgur
+- deviantart
+- twitter
+- instagram
+- tumblr
+upforgrabs:
+  name: help wanted
+  link: https://github.com/RipMeApp/ripme/labels/help%20wanted
+stats:
+  issue-count: 8
+  last-updated: '2023-09-03T13:58:47Z'
+  fork-count: 637

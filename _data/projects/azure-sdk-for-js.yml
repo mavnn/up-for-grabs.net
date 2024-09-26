@@ -1,0 +1,19 @@
+---
+name: Microsoft Azure SDK for JavaScript
+desc: >-
+  This repository contains official JavaScript libraries and TypeScript definitions for Azure services.
+site: https://github.com/Azure/azure-sdk-for-js
+tags:
+- javascript
+- typescript
+- microsoft
+- azure
+- cloud
+- sdk
+upforgrabs:
+  name: help wanted
+  link: https://github.com/Azure/azure-sdk-for-js/labels/help%20wanted
+stats:
+  issue-count: 29
+  last-updated: '2023-09-25T22:08:55Z'
+  fork-count: 1094

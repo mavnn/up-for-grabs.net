@@ -1,0 +1,16 @@
+---
+name: Rust
+desc: A systems programming language focused on safety, speed, and concurrency.
+site: https://www.rust-lang.org
+tags:
+- oss
+- systems
+- rust
+- language
+upforgrabs:
+  name: E-easy
+  link: https://github.com/rust-lang/rust/labels/E-easy
+stats:
+  issue-count: 48
+  last-updated: '2023-09-26T11:14:24Z'
+  fork-count: 11322

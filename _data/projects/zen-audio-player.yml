@@ -1,0 +1,19 @@
+---
+name: Zen Audio Player
+desc: Listen to YouTube videos without the distracting visuals.
+site: https://zen-audio-player.github.io
+tags:
+- javascript
+- css
+- html
+- youtube
+- audio
+- player
+- web
+upforgrabs:
+  name: up for grabs
+  link: https://github.com/zen-audio-player/zen-audio-player.github.io/labels/up%20for%20grabs
+stats:
+  issue-count: 6
+  last-updated: '2023-09-23T18:05:20Z'
+  fork-count: 169

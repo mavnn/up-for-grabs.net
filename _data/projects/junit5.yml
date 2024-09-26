@@ -1,0 +1,15 @@
+---
+name: JUnit 5
+desc: The next generation of JUnit.
+site: https://github.com/junit-team/junit5
+tags:
+- java
+- testing
+- junit
+upforgrabs:
+  name: up-for-grabs
+  link: https://github.com/junit-team/junit5/labels/up-for-grabs
+stats:
+  issue-count: 17
+  last-updated: '2023-09-23T13:19:21Z'
+  fork-count: 1367

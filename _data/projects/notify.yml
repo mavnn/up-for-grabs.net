@@ -1,0 +1,20 @@
+---
+name: notify
+desc: A dead simple Go library for sending notifications to various messaging services.
+site: https://github.com/nikoksr/notify
+tags:
+- go
+- notifications
+- messaging
+- bot
+- telegram
+- email
+- discord
+- slack
+upforgrabs:
+  name: up for grabs
+  link: https://github.com/nikoksr/notify/labels/up%20for%20grabs
+stats:
+  issue-count: 16
+  last-updated: '2023-09-23T18:58:38Z'
+  fork-count: 184
